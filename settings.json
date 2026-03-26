@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 20,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I AM THUNDEERMC ONLINE WARDEN!",
+        "I like to KEEP SERVERS ONLINE!"
       ]
     },
     "chat-log": true,
@@ -60,7 +60,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1486646304473088034/_HOG3Ed8LnEJ8irV0--bI4iaSJAiV3Lt9mPzDlTZY12KtcvsB_n88QmRVC-dbs0wCVsb",
     "events": {
       "connect": true,
       "disconnect": true,
