@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "THUNDERMCGG.aternos.me",
-    "port": 22437,
+    "ip": "play.divinitymc.fun",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 20,
       "messages": [
-        "I'm a regular player",
-        "I AM THUNDEERMC ONLINE WARDEN!",
-        "I like to KEEP SERVERS ONLINE!"
+        "",
+        "",
+        ""
       ]
     },
     "chat-log": true,
